@@ -33,6 +33,5 @@ O script executa uma série de comandos otimizados para remover arquivos tempor�
 
 ## Avisos Importantes
 
-*   **Requerimento de Root:** A grande maioria dos comandos utiliza `sudo`. Ao executar o script, será solicitada a sua senha de administrador.
 *   **Exclusão de Histórico:** Este script apaga o histórico do Bash (`~/.bash_history*`) e esvazia a lixeira automaticamente. Se você costuma buscar comandos antigos no terminal ou guardar arquivos na lixeira como backup temporário, revise o código antes de rodar.
 *   **Uso de Caches:** Limpar caches de navegadores e thumbnails pode fazer com que páginas da web e pastas com imagens demorem um pouco mais para carregar na primeira vez em que forem abertas após a limpeza.
